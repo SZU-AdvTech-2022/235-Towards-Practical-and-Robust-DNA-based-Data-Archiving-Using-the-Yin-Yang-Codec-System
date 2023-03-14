@@ -1,0 +1,10 @@
+@article{REPO-236,
+    author = "Ping, Zhi and Chen, Shihong and Zhou, Guangyu and Huang, Xiaoluo and Zhu, Sha Joe and Zhang, Haoling and Lee, Henry H and Lan, Zhaojun and Cui, Jie and Chen, Tai and others",
+    journal = "Nature Computational Science",
+    number = "4",
+    pages = "234--242",
+    publisher = "Nature Publishing Group US New York",
+    title = "{Towards Practical and Robust DNA-based Data Archiving Using the Yin¨CYang Codec System}",
+    volume = "2",
+    year = "2022"
+}
